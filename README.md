@@ -15,7 +15,7 @@ This repository exists to:
 
 The Privacy Policy is published via **GitHub Pages** and is accessible at:
 
-> https://<your-github-username>.github.io/api-response-inspector-privacy/
+> https://sumanjha10815.github.io/api-response-inspector-privacy/
 
 ## Data Handling Summary
 
