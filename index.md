@@ -1,5 +1,3 @@
-# Privacy Policy for API Response Inspector
-
 **Last Updated:** January 1, 2025
 
 ---
